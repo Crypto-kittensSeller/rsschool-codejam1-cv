@@ -6,6 +6,7 @@
     font-style: normal;
     font-size: 14px;
     font-weight: 500;
+    background-color: rgb(177, 250, 226);
      
 }
 
@@ -59,4 +60,8 @@
 .work-experience{
     border-bottom: 1px solid black; 
 }
+
+ul {
+    list-style-type: circle; 
+   }
 
